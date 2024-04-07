@@ -1,0 +1,15 @@
+/workspaces/LearnCsharp/Chapter-1/helloCS/bin/Debug/net8.0/helloCS
+/workspaces/LearnCsharp/Chapter-1/helloCS/bin/Debug/net8.0/helloCS.deps.json
+/workspaces/LearnCsharp/Chapter-1/helloCS/bin/Debug/net8.0/helloCS.runtimeconfig.json
+/workspaces/LearnCsharp/Chapter-1/helloCS/bin/Debug/net8.0/helloCS.dll
+/workspaces/LearnCsharp/Chapter-1/helloCS/bin/Debug/net8.0/helloCS.pdb
+/workspaces/LearnCsharp/Chapter-1/helloCS/obj/Debug/net8.0/helloCS.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/LearnCsharp/Chapter-1/helloCS/obj/Debug/net8.0/helloCS.AssemblyInfoInputs.cache
+/workspaces/LearnCsharp/Chapter-1/helloCS/obj/Debug/net8.0/helloCS.AssemblyInfo.cs
+/workspaces/LearnCsharp/Chapter-1/helloCS/obj/Debug/net8.0/helloCS.csproj.CoreCompileInputs.cache
+/workspaces/LearnCsharp/Chapter-1/helloCS/obj/Debug/net8.0/helloCS.sourcelink.json
+/workspaces/LearnCsharp/Chapter-1/helloCS/obj/Debug/net8.0/helloCS.dll
+/workspaces/LearnCsharp/Chapter-1/helloCS/obj/Debug/net8.0/refint/helloCS.dll
+/workspaces/LearnCsharp/Chapter-1/helloCS/obj/Debug/net8.0/helloCS.pdb
+/workspaces/LearnCsharp/Chapter-1/helloCS/obj/Debug/net8.0/helloCS.genruntimeconfig.cache
+/workspaces/LearnCsharp/Chapter-1/helloCS/obj/Debug/net8.0/ref/helloCS.dll
