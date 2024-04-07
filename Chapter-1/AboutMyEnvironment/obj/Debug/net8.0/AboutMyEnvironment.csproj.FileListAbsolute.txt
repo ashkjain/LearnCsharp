@@ -1,0 +1,15 @@
+/workspaces/LearnCsharp/Chapter-1/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment
+/workspaces/LearnCsharp/Chapter-1/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment.deps.json
+/workspaces/LearnCsharp/Chapter-1/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment.runtimeconfig.json
+/workspaces/LearnCsharp/Chapter-1/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment.dll
+/workspaces/LearnCsharp/Chapter-1/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment.pdb
+/workspaces/LearnCsharp/Chapter-1/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/LearnCsharp/Chapter-1/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.AssemblyInfoInputs.cache
+/workspaces/LearnCsharp/Chapter-1/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.AssemblyInfo.cs
+/workspaces/LearnCsharp/Chapter-1/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.csproj.CoreCompileInputs.cache
+/workspaces/LearnCsharp/Chapter-1/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.sourcelink.json
+/workspaces/LearnCsharp/Chapter-1/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.dll
+/workspaces/LearnCsharp/Chapter-1/AboutMyEnvironment/obj/Debug/net8.0/refint/AboutMyEnvironment.dll
+/workspaces/LearnCsharp/Chapter-1/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.pdb
+/workspaces/LearnCsharp/Chapter-1/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.genruntimeconfig.cache
+/workspaces/LearnCsharp/Chapter-1/AboutMyEnvironment/obj/Debug/net8.0/ref/AboutMyEnvironment.dll
