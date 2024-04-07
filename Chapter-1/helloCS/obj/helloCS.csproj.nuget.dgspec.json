@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/LearnCsharp/Chapter-1/helloCS/helloCS.csproj": {}
+    "C:\\Users\\aj901\\OneDrive\\LearnCsharp\\LearnCsharp\\Chapter-1\\helloCS\\helloCS.csproj": {}
   },
   "projects": {
-    "/workspaces/LearnCsharp/Chapter-1/helloCS/helloCS.csproj": {
+    "C:\\Users\\aj901\\OneDrive\\LearnCsharp\\LearnCsharp\\Chapter-1\\helloCS\\helloCS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/LearnCsharp/Chapter-1/helloCS/helloCS.csproj",
+        "projectUniqueName": "C:\\Users\\aj901\\OneDrive\\LearnCsharp\\LearnCsharp\\Chapter-1\\helloCS\\helloCS.csproj",
         "projectName": "helloCS",
-        "projectPath": "/workspaces/LearnCsharp/Chapter-1/helloCS/helloCS.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/LearnCsharp/Chapter-1/helloCS/obj/",
+        "projectPath": "C:\\Users\\aj901\\OneDrive\\LearnCsharp\\LearnCsharp\\Chapter-1\\helloCS\\helloCS.csproj",
+        "packagesPath": "C:\\Users\\aj901\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aj901\\OneDrive\\LearnCsharp\\LearnCsharp\\Chapter-1\\helloCS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\aj901\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
